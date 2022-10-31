@@ -19,3 +19,8 @@
 + DAO Thì có thêm vài hàm 
 + Ở WebPage nên lấy folder PageError hoặc có thể lên mạng lấy cũng được -> dùng bên filter nếu có ai đó vào trang
 + Check lại web.xml
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Có thêm vào BookFilter -> Khi mà chưa đăng nhập nó sẽ lọc nếu chưa đăng nhập sẽ yêu cầu đăng nhập
++ Bấm vào commit để xem các phần đc thêm vào
