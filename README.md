@@ -24,3 +24,4 @@
 
 - Có thêm vào BookFilter -> Khi mà chưa đăng nhập nó sẽ lọc nếu chưa đăng nhập sẽ yêu cầu đăng nhập
 + Bấm vào commit để xem các phần đc thêm vào
+![image](https://user-images.githubusercontent.com/83583888/198933445-f74d7603-d6d4-41a3-9349-31377d5221ca.png)
