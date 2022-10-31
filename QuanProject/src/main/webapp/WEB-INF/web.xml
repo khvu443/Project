@@ -4,6 +4,14 @@
         <filter-name>AuthFilter</filter-name>
         <filter-class>Filter.AuthFilter</filter-class>
     </filter>
+    <filter>
+        <filter-name>BookingFilter</filter-name>
+        <filter-class>Filter.BookingFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>BookingFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
     <filter-mapping>
         <filter-name>AuthFilter</filter-name>
         <url-pattern>/*</url-pattern>
